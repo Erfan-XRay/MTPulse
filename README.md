@@ -1,5 +1,5 @@
 
-![Menu]([https://github.com/Erfan-XRay/MTPulse/blob/main/MTPulse.png])
+![Menu](https://github.com/Erfan-XRay/MTPulse/blob/main/MTPulse.png)
 
 ## What is MTPulse?
 You can manage MTProto proxies by using this script.it will use the [official telegram MTProxy ](https://github.com/TelegramMessenger/MTProxy) project.
